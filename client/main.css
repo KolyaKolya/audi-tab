@@ -1,0 +1,92 @@
+
+body {
+  font-family: Arial, Tahoma, sans-serif;
+}
+
+.clr {
+  width: 100%;
+  float: none;
+  clear: both;
+  height: 10px;
+}
+
+.title-text {
+
+  background-color: #58595b;
+  width: 180px;
+  font-size: 20px;
+  padding: 10px 20px;
+  color:#FFF;
+  text-transform: uppercase;
+  float: left;
+}
+.tite-time-item {
+  float: left;
+  line-height: 60px;
+  width: 70px;
+  padding-left: 4px;
+  font-size: 18px;
+  color: #58595b;
+}
+.tite-time-item-last {
+  line-height: 60px;
+  font-size: 18px;
+  color: #58595b;
+}
+.master-name {
+  float: left;
+  font-size: 20px;
+  color:#FFF;
+  text-transform: uppercase;
+  margin-top: 20px;
+}
+.timeline-title span {
+
+}
+
+.timeline-title {
+  float: left;
+  background-color: gray;
+  width: 220px;
+  height: 80px;
+  overflow: hidden;
+}
+div.wr {
+  float: right;
+  border-right: 1px solid #fff;
+}
+.timeline-title div.item {
+  height: 30px;
+  padding: 5px 0;
+  line-height: 40px;
+  background-color: lightgray;
+  width: 80px;
+  border-bottom: 1px solid #fff;
+  text-align: center;
+}
+
+.timeline {
+  display: block;
+  width: 780px;
+  background-color: lightgray;
+  height: 40px;
+  margin:0;
+  padding: 0;
+  margin-left: 220px;
+}
+
+.timeline-item {
+  margin:0;
+  padding: 0;
+  width: 12px;
+  height: 40px;
+  display: block;
+  float: left;
+  border-right: 1px solid #fff;
+}
+.gray {
+  background-color: #58595b;
+}
+.green {
+  background-color: green;
+}
